@@ -11,7 +11,6 @@ public class firstclass {
 			System.out.println("hello");
 			System.out.println("hello 1");
 			System.out.println("hello 12");
-			
 			System.out.println("hello 143");
 			System.out.println("hello 1243");
 		

@@ -13,6 +13,9 @@ public class firstclass {
 			System.out.println("hello 12");
 			System.out.println("hello 143");
 			System.out.println("hello 1243");
+			System.out.println("HSSH");
+			System.out.println("canola");
+			
 		
 		
 		
